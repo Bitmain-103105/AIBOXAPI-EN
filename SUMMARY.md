@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Version list](README.md)
+* [Version](README.md)
 * [语言/Language](yu-yan-language.md)
 
 ## Version1.0
