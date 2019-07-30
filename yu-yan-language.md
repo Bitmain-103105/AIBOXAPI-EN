@@ -4,7 +4,7 @@
 
 | 中文 | English |
 | :--- | :--- |
-| 中文 API | English API |
+| [中文 API](https://bitmain-1.gitbook.io/aibox/) | [English API](./) |
 
 
 
