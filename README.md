@@ -1,10 +1,16 @@
-# Version
+# index
 
+## 版本
 
+| 版本 | 说明 |
+| :---: | :---: |
+| [V2R1C02](zh/V2R1C02/README.md) | 测试 |
+| [V2R1C01](zh/V2R1C01/README.md) | 初始版本 |
 
-| 版本 1.0 | 版本 2.0 |
-| :--- | :--- |
-| [版本 1.0](version1.0/1.0-navigation.md) | [版本 2.0](version2.0/not-online.md) |
+## VERSION
 
-
+| Version | Directions |
+| :---: | :---: |
+| [V2R1C02](en/) | developing |
+| [V2R1C01](en/) | developing |
 
